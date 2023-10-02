@@ -40,6 +40,6 @@
 
 <p>
 <a href="https://www.marttsang.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.marttsang.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="www.linkedin.com/in/marttsang2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Tsang-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/marttsang2"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Martin%20Tsang-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:tsangmartin1225@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tsangmartin1225@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>

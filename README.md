@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Engineering at City University of Hong Kong.
-- 💼 &nbsp; Working as a Software Engineer at Apoidea.
+- 💼 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

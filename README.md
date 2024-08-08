@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Information Engineering at City University of Hong Kong.
+- 🎓 &nbsp; Graduated Information Engineering at City University of Hong Kong.
 - 💼 &nbsp; Working as a Software Engineer.
 - 🌱 &nbsp; Learning more about Data Structure and Algorithm.
 
